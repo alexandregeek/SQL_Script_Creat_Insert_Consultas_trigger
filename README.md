@@ -1,0 +1,1 @@
+# SQL_Script_Creat_Insert_Consultas_trigger
