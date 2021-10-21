@@ -10,9 +10,10 @@
 
 
 # Tecnologias utilizadas
-[![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
   
 ![download](https://user-images.githubusercontent.com/50930231/138355674-0c7d5601-687f-416d-a3c6-98b4d3bc3fb6.png)
+![SQL](https://user-images.githubusercontent.com/50930231/138356027-970ddace-bb24-4f92-a643-26b98a1a3253.jpg)
+
 
 
 # Como executar o projeto
